@@ -83,7 +83,7 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
               onPressed: () {},
               child: Text(
-                'сан: $_counter',
+                'Сан: $_counter',
                 style: const TextStyle(color: Colors.black),
               ),
             ),
